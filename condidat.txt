@@ -1,0 +1,8 @@
+ahmed defi 444 1 1 1900 presedent Droite
+bbbbbbbbbbbb bbbbbbbbbbbb 555 1 1 1900 bbbbbbbbbb Droite
+aaa aaaa 123 2 3 2004 aaaa Gauche
+dsfg dfgds 2354 1 1 1999 sdfg Centre
+ghbnj,k tfgyhujik 123456789 1 1 1999 frtgyhujikl Droite
+jasser ahmadi 15236541 1 1 1999 presedent Centre
+jasser azerty 14563254 1 1 1999 vice presedent
+Droite azerty 14563254 1 1 1999 vice presedent
